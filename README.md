@@ -14,7 +14,6 @@
 </ul>
 
 <h3>Sobre mim:</h3>
-<p>Sou estudante de engenharia de software no IFSP, e trabalho como desenvolvedor na PETE - Robótica Educacional</p>
-<p>Possuo mais prática e experiência no desenvolvimento web, tanto frontend quanto backend</p>
-<p>Atualmente estou estudando e trabalhando com desenvolvimento multiplataforma utilizando Flutter</p>
+<p>Sou estudante de engenharia de software no IFSP, e trabalho como desenvolvedor Backend na empresa SOFTABLE</p>
+<p>Possuo maior prática e experiência com JAVA e C# no backend, e React Native no frontend</p>
 
