@@ -22,7 +22,7 @@ public sealed class Lucas : BackendDeveloper
     public string Location   => "São Carlos, SP 🇧🇷";
     public string Role       => "Backend Developer @ Softable";
     public string Education  => "Engenharia de Software @ IFSP (2023–2026)";
-    public int    YearsOfXp  => 2;
+    public int    YearsOfXp  => 3;
 
     public string[] Stack => [ "C#", "ASP.NET Core", "Java", "Spring Boot",
                                "PostgreSQL", "MongoDB", "Redis", "Docker", "AWS" ];
